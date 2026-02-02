@@ -23,7 +23,7 @@ const Navbar = () => {
                     <NavLink to="/about">About</NavLink>
                 </Button>
             </div>
-            {isLoaded && <div>Loading...</div>}
+            {/* {isLoaded && <div>Loading...</div>} */}
             {isLoaded && isSignedIn &&
                 <UserButton userProfileMode="navigation" userProfileUrl="/auth/profile" showName>
                     <UserButton.MenuItems>
