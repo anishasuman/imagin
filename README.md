@@ -90,16 +90,11 @@ A magical forest with glowing butterflies
 Indian palace in rainy weather, 4K wallpaper
 
 🎯 Goal of This Project
-
 To build a complete full-stack style web experience where:
-
-user authentication is handled securely
-
-AI can generate images from prompts
-
-users can save/download their output
-
-UI looks premium and professional
+-user authentication is handled securely
+-AI can generate images from prompts
+-users can save/download their output
+-UI looks premium and professional
 
 🙋‍♀️ Created By
 
